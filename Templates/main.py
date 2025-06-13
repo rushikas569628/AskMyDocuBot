@@ -1,5 +1,5 @@
 from fastapi import FastAPI, File, UploadFile, Form
-from templates.agent import create_pdf_agent
+from Templates.agent import create_pdf_agent
 import tempfile
 
 app = FastAPI()
