@@ -5,12 +5,10 @@ fpdf==1.7.2
 pdfminer.six==20221105
 PyMuPDF==1.21.1
 langchain==0.1.16
-langchain-community
 openai==1.86.0
 faiss-cpu==1.11.0
 tiktoken==0.9.0
 unstructured==0.17.2
-fastapi==0.95.2
 uvicorn==0.22.0
 python-multipart==0.0.6
 
@@ -30,7 +28,7 @@ cryptography==45.0.4
 dataclasses-json==0.6.7
 distro==1.9.0
 faiss-cpu==1.11.0
-fastapi==0.115.12
+fastapi==0.111.0
 Flask==3.1.1
 frozenlist==1.7.0
 greenlet==3.2.3
