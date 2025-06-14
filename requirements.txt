@@ -4,7 +4,7 @@ reportlab==3.6.12
 fpdf==1.7.2
 pdfminer.six==20221105
 PyMuPDF==1.21.1
-langchain==1.0.6
+langchain==0.1.16
 langchain-community
 openai==1.86.0
 faiss-cpu==1.11.0
